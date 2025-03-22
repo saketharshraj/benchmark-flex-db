@@ -1,0 +1,6 @@
+{
+    "single_ops": 1000,
+    "multi_clients": 10,
+    "ops_per_client": 100
+  }
+  
